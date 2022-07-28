@@ -26,11 +26,6 @@ OR
 
 npm start
 
-### YouTube Tutorial URL
-
-Title: To Do List App Project in ReactJS | Full React JS Project for Beginners from Scratch
-
-https://youtu.be/TmDNBEdHzVs
 
 ### Live Demo
 
