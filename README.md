@@ -32,8 +32,8 @@ Title: To Do List App Project in ReactJS | Full React JS Project for Beginners f
 
 https://youtu.be/TmDNBEdHzVs
 
-### To Do List App React (V2) [Update]
+### Live Demo
 
-Tutorial: https://youtu.be/E2CWxv5hOso
+Link: https://stunning-starlight-19dd55.netlify.app/
 
-Code: https://github.com/webstylepress/To-Do-List-App-React-V2-
+Code: https://github.com/hackerspider007/to-do-list-app-react.git
